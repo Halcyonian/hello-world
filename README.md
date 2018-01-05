@@ -1,2 +1,3 @@
 # hello-world
-A test on using github
+
+This is my test and introduction to GitHub. 
